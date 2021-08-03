@@ -1,0 +1,22 @@
+*, *::after, *::before{
+    box-sizing: border-box;
+    font-family: fantasy;
+}
+
+body{
+    background: linear-gradient(to right, white, grey);
+}
+
+.add-button{
+    cursor: pointer;
+    border: 2px solid black;
+}
+
+.toDoContainer{
+    margin: 25px;
+}
+
+p{
+    cursor: pointer;
+
+}
